@@ -1,0 +1,4 @@
+name: Webinterface
+version: '${project.version}'
+main: de.curse.web.Main
+
